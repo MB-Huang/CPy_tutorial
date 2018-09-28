@@ -57,6 +57,7 @@ Embedded python in c++
 
     ![](https://i.imgur.com/bicShJ2.png)
 ### 設定 Visual Studio 專案屬性
+* 由於是嵌入Python函式，專案必須是 `release`
 * 設定 .dll 檔位置
     在 ```方案右鍵 > 組態屬性 > 偵錯 > 環境``` 輸入```PATH=$(PYTHONPATH)```
     ![](https://i.imgur.com/kidKKBp.png)
