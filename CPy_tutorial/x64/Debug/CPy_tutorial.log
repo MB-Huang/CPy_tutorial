@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  main.cpp
+d:\onedrive - 國立成功大學\airobots lab\code\other\windows\cpy_tutorial\cpy_tutorial\pythonembedded.h(4): fatal error C1083: 無法開啟包含檔案: 'Python.h': No such file or directory
+  PythonEmbedded.cpp
+d:\onedrive - 國立成功大學\airobots lab\code\other\windows\cpy_tutorial\cpy_tutorial\pythonembedded.h(4): fatal error C1083: 無法開啟包含檔案: 'Python.h': No such file or directory
+  正在產生程式碼...
